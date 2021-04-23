@@ -9,8 +9,8 @@
 # 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
+whiteDevil X made by @Aru_Bbu. Join for update related info channel and group :- https://t.me/WhiteDevil_UB THANKS FOR VISITING OUR REPO💖
+[![DEVIL LOGO](https://telegra.ph/file/ccab46a9547a9d5e141fa.jpg)](https://t.me/MafiaBot_Support)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -19,7 +19,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P.
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/WhiteDevil_UB">☢️JOIN WHITEDEVIL X SUPPORT☢️</a></h2>
 
 </details>
 
@@ -34,16 +34,16 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P.
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FH1M4N5HU0P%2FMAFIA-BOT&template=https%3A%2F%2Fgithub.com%2FH1M4N5HU0P%2FMAFIA-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https://github.com/WhiteDevil-OP/WhiteDevil-BOT&template=https://github.com/WhiteDevil-OP/WhiteDevil-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
-<h2 align="center"> <a href="https://github.com/H1M4N5HU0P/MAFIA-USERBOT">⚡ 𝙼𝙰𝙵𝙸𝙰 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/WhiteDevil-OP/WhiteDevil-X">⚡ WHITE DEVIL X 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</a></h2>
 
 </details>
 
 <details>
 
   <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
+<h2 align="center"> <a href="https://github.com/TheShashankk">💥 The Shashank 💥</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 </details>
@@ -54,13 +54,13 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P.
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/H1M4N5HU0P/MAFIABOT
-cd MAFIABOT
+git clone https://github.com/WhiteDevil-OP/WhiteDevil-BOT
+cd whitedevil
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
-python3 -m userbot
+python3 -m whitedevil
 ```
 
 An example `local_config.py` file could be:
@@ -83,7 +83,7 @@ class Development(Var):
 
   <summary> • UNIBORG CONFIGURATION • </summary>
 
-The UniBorg Config is situated in `userbot/uniborgConfig.py`.
+The UniBorg Config is situated in `whitedevil/uniborgConfig.py`.
 
 **Heroku Configuration**
 Simply just leave the Config as it is.
@@ -112,9 +112,9 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 WHITEDEVIL OP
 
-Poject [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIABOT) is free software: you can redistribute it and/or modify
+Poject [WHITE DEVIL X](https://github.com/WhiteDevil-OP/WhiteDevil-BOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
