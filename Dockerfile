@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/H1M4N5HU0P/MAFIA-USERBOT.git /root/userbot
+RUN git clone https://github.com/WhiteDevil-OP/WhiteDevil-X /root/whitedevil
 #working directory 
 WORKDIR /root/userbot
 
@@ -10,4 +10,4 @@ RUN pip3 install -U -r requirements.txt
 
 ENV PATH="/home/userbot/bin:$PATH"
 
-CMD ["python3","-m","userbot"]
+CMD ["python3","-m","whitedevil"]
